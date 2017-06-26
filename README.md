@@ -1,5 +1,5 @@
 # Like Post
-
+Read detailed version of this source on the like button on [WordpressZone](http://wordpresszone.co/?p=43 "AJAX Like Button")
 ##Include the php files
 note: these should be included in the functions.php
 ```php
